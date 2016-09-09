@@ -21,3 +21,6 @@ Today I Learned
 
 - [Install Janus VIM Distribution](vim/install-janus-vim-distribution.md)
 - [Use Janus VIM Distribution with Neovim](vim/use-janus-with-neovim.md)
+
+### Linux
+- [Easy file sharing from the command line](linux/share-files-with-url.md)
