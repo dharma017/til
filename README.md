@@ -19,6 +19,7 @@ Today I Learned
 
 ### Git
 - [Removes all unstaged files, extremely handy to revert back to a clean state](git/revert-back-to-clean-state.md)
+- [A better git log](git/a-better-git-log.md)
 
 ### Linux
 - [Easy file sharing from the command line](linux/share-files-with-url.md)
