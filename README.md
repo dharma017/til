@@ -15,6 +15,7 @@ Today I Learned
 * [tmux](#tmux)
 * [Unix](#unix)
 * [Vim](#vim)
+* [Microsoft](#microsoft)
 
 
 ### Git
@@ -28,3 +29,7 @@ Today I Learned
 
 - [Install Janus VIM Distribution](vim/install-janus-vim-distribution.md)
 - [Use Janus VIM Distribution with Neovim](vim/use-janus-with-neovim.md)
+
+### Microsoft
+- [Reinstall bash on windows 10](microsoft/reinstall-bash-on-windows-10.md)
+- [Location of the Ubuntu file system root directory in Windows NT subsystem](microsoft/ubuntu-fs-in-windows-10.md)
