@@ -29,6 +29,9 @@ Today I Learned
 
 - [Install Janus VIM Distribution](vim/install-janus-vim-distribution.md)
 - [Use Janus VIM Distribution with Neovim](vim/use-janus-with-neovim.md)
+- [Go to the declaration (of a class, method, function, variable, etc)](vim/go-to-definition.md)
+- [Reselect a visual block](vim/reselect-visual-block.md)
+- [Jump Back To Previous or Last Cursor Position](vim/jump-back-to-previous-last-cursor-position.md)
 
 ### Microsoft
 - [Reinstall bash on windows 10](microsoft/reinstall-bash-on-windows-10.md)
