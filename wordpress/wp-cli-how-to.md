@@ -9,7 +9,14 @@ sudo mv wp-cli.phar /usr/local/bin/wp
 wp --info
 ```
 
+## Generate a wp-config.php file
+
+```
+wp core config --dbhost=localhost --dbname=testing --dbuser=wp --dbpass=securepswd --dbprefix=wp_
+```
+
 ## Launch PHP’s built-in web server
+
 ```
 wp server
 wp server --host=0.0.0.0
