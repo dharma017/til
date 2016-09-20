@@ -18,23 +18,23 @@ sudo wp server --host=localhost.localdomain --port=80
 
 ## Plugins
 
-- List Plugins
+List Plugins
 
 `wp plugin list`
 
-- Install and activate plugin at once
+Install and activate plugin at once
 
 `wp plugin install --activate akismet`
 
-- Deactivate plugin
+Deactivate plugin
 
 `wp plugin deactivate akismet`
 
-- Delete plugin without deactivating or uninstalling
+Delete plugin without deactivating or uninstalling
 
 `wp plugin delete akismet`
 
-- Update plugins
+Update plugins
 
 ```
 wp plugin update akismet
@@ -42,22 +42,27 @@ wp plugin update --all
 ```
 
 ## Manage rewrite rules
+
 To regenerate a .htaccess file with WP-CLI, you’ll need to add the mod_rewrite module to your wp-cli.yml or config.yml. 
 
 Create `wp-cli.yml` file and write below
+
 ```
 apache_modules:
   - mod_rewrite
 ```
 
 Flush rewrite rules.
+
 `wp rewrite flush`
 
 Update the permalink structure
+
 `wp rewrite structure '/%postname%'`
 
 [--hard]
 Perform a hard flush - update .htaccess rules as well as rewrite rules in database. Works only on single site installs.
+
 ```
 wp rewrite flush
 wp rewrite structure '/%postname%'
