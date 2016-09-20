@@ -62,7 +62,7 @@ Update the permalink structure
 
 `[--hard]`
 
-Perform a hard flush - update .htaccess rules as well as rewrite rules in database. Works only on single site installs.
+  Perform a hard flush - update .htaccess rules as well as rewrite rules in database. Works only on single site installs.
 
 ```
 wp rewrite flush
