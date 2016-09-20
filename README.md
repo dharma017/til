@@ -3,18 +3,10 @@ Today I Learned
 
 ### Categories
 
-* [Chrome](#chrome)
-* [CSS](#css)
-* [Devops](#devops)
 * [Git](#git)
-* [JavaScript](#javascript)
 * [Linux](#linux)
-* [Mac](#mac)
-* [Rails](#rails)
-* [Ruby](#ruby)
-* [tmux](#tmux)
-* [Unix](#unix)
 * [Vim](#vim)
+* [Android](#android)
 * [Microsoft](#microsoft)
 
 
@@ -32,6 +24,10 @@ Today I Learned
 - [Go to the declaration (of a class, method, function, variable, etc)](vim/go-to-definition.md)
 - [Reselect a visual block](vim/reselect-visual-block.md)
 - [Jump Back To Previous or Last Cursor Position](vim/jump-back-to-previous-last-cursor-position.md)
+
+### Android
+
+- [Custom Rom Flashing](android/custom-rom-flashing.md)
 
 ### Microsoft
 - [Reinstall bash on windows 10](microsoft/reinstall-bash-on-windows-10.md)
