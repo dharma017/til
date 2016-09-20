@@ -19,18 +19,23 @@ sudo wp server --host=localhost.localdomain --port=80
 ## Plugins
 
 - List Plugins
+
 `wp plugin list`
 
 - Install and activate plugin at once
+
 `wp plugin install --activate akismet`
 
 - Deactivate plugin
+
 `wp plugin deactivate akismet`
 
 - Delete plugin without deactivating or uninstalling
+
 `wp plugin delete akismet`
 
 - Update plugins
+
 ```
 wp plugin update akismet
 wp plugin update --all
