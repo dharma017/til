@@ -1,4 +1,6 @@
-# Manage wordpress configurations like update plugins, setup config file, generate .htaccess file
+# Manage wordpress using set of commands WP-CLI
+
+You can update plugins, configure multisite installs and much more, without using a web browser.
 
 ## Installing
 ```
