@@ -60,7 +60,8 @@ Update the permalink structure
 
 `wp rewrite structure '/%postname%'`
 
-[--hard]
+`[--hard]`
+
 Perform a hard flush - update .htaccess rules as well as rewrite rules in database. Works only on single site installs.
 
 ```
