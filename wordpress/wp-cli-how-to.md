@@ -67,3 +67,21 @@ Perform a hard flush - update .htaccess rules as well as rewrite rules in databa
 wp rewrite flush
 wp rewrite structure '/%postname%'
 ```
+
+## Search/replace strings in the database
+
+Search and replace database
+
+`wp search-replace http://example.dev http://example.com`
+
+Run search/replace operation but dont save in database
+
+`wp search-replace http://example.dev http://example.com`
+
+Turn your production multisite database into a local dev database
+
+`wp search-replace --url=example.com example.com example.dev 'wp_*_options' wp_blogs`
+
+Search/replace to a SQL file without transforming the database
+
+`wp search-replace foo bar --export=database.sql`
