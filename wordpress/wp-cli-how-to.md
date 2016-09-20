@@ -86,3 +86,31 @@ Turn your production multisite database into a local dev database
 Search/replace to a SQL file without transforming the database
 
 `wp search-replace foo bar --export=database.sql`
+
+## Download, install, update and otherwise manage WordPress proper
+
+Display the WordPress version
+
+`wp core version`
+
+Update WordPress
+
+`wp core update`
+
+Update the WordPress database
+
+`wp core update-db`
+
+Update databases for all sites on a network
+
+`wp core update-db --network`
+
+##  Perform basic database operations
+
+Export database with drop query included
+
+`wp db export --add-drop-table`
+
+Import a MySQL database from a file or from STDIN
+
+`wp db import wordpress_dbase.sql`
