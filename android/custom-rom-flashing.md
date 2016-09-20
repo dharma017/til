@@ -28,6 +28,9 @@
 `adb sideload file.zip`
 
 ## References
+
 [http://en.miui.com/thread-328569-1-1.html](http://en.miui.com/thread-328569-1-1.html)
+
 [https://www.reddit.com/r/Xiaomi/wiki/roms/flashunofficial](https://www.reddit.com/r/Xiaomi/wiki/roms/flashunofficial)
+
 [https://www.reddit.com/r/Xiaomi/wiki/advanced/bootloader](https://www.reddit.com/r/Xiaomi/wiki/advanced/bootloader)
