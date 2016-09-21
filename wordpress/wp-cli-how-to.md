@@ -17,6 +17,24 @@ wp --info
 wp core config --dbhost=localhost --dbname=testing --dbuser=wp --dbpass=securepswd --dbprefix=wp_
 ```
 
+## Manage users
+
+List all users
+
+`wp user list`
+
+Create user
+
+`wp user create bob bob@example.com --role=author`
+
+Update user with ID 123
+
+`wp user update 123 --user_pass=newpass`
+
+Delete user 123 and reassign posts to user 567
+
+`wp user delete 123 --reassign=567`
+
 ## Launch PHP’s built-in web server
 
 ```
