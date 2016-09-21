@@ -1,5 +1,9 @@
 # Manage wordpress using set of commands WP-CLI
 
+[http://wp-cli.org/](http://wp-cli.org/)
+
+[http://wp-cli.org/commands/](http://wp-cli.org/commands/)
+
 You can update plugins, configure multisite installs and much more, without using a web browser.
 
 ## Installing
