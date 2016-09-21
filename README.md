@@ -8,6 +8,7 @@ Today I Learned
 * [Linux](#linux)
 * [Microsoft](#microsoft)
 * [Vim](#vim)
+* [Wordpress](#wordpress)
 
 ### Android
 - [Custom Rom Flashing](android/custom-rom-flashing.md)
@@ -30,3 +31,7 @@ Today I Learned
 - [Go to the declaration (of a class, method, function, variable, etc)](vim/go-to-definition.md)
 - [Reselect a visual block](vim/reselect-visual-block.md)
 - [Jump Back To Previous or Last Cursor Position](vim/jump-back-to-previous-last-cursor-position.md)
+
+### Wordpress
+
+- [Manage wordpress using set of commands WP-CLI](wordpress/wp-cli-how-to.md)
