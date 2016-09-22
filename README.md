@@ -19,6 +19,7 @@ Today I Learned
 - [Ignoring other directories with the same name](git/prevent-ignoring-other-directories-with-same-name.md)
 
 ### Linux
+- [Install Ubuntu packages](linux/ubuntu-packages.sh)
 - [Copy public ssh key to remote server](linux/copy-ssh-public-key-to-remote-server.md)
 - [Install ProFTPD Server in Ubuntu Server + Create FTP user](linux/install-proftpd-server-in-ubuntu.md)
 - [Setup FTP SSH for new project in Ubuntu server](linux/ftp-ssh-setup-staging-server.md)
@@ -26,7 +27,6 @@ Today I Learned
 - [Find all local IPs and MAC Address with arp-scan on Ubuntu](linux/scan-local-network.md)
 - [Easy file sharing from the command line](linux/share-files-with-url.md)
 - [Find The Largest Top 10 Files and Directories On a Linux / UNIX](linux/top-10-fies-largest.md)
-- [Setup Ubuntu](linux/ubuntu-packages.sh)
 - [Download Youtube Channel/Playlist using Ubuntu command line](linux/youtube-dowload-playlist.md)
 
 ### Microsoft
