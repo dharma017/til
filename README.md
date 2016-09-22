@@ -30,17 +30,19 @@ Today I Learned
 - [Download Youtube Channel/Playlist using Ubuntu command line](linux/youtube-dowload-playlist.md)
 
 ### Microsoft
-- [Reinstall bash on windows 10](microsoft/reinstall-bash-on-windows-10.md)
+- [Windows 10: Ubuntu Bash Configuration](microsoft/configuration-windows-ten-ubuntu-bash.md)
 - [Location of the Ubuntu file system root directory in Windows NT subsystem](microsoft/ubuntu-fs-in-windows-10.md)
+- [Reinstall bash on windows 10](microsoft/reinstall-bash-on-windows-10.md)
+- [Fix Mysql Server has gone away](microsoft/fix-mysql-server-has-gone-away.md)
 
 ### VIM
-
 - [Install Janus VIM Distribution](vim/install-janus-vim-distribution.md)
 - [Use Janus VIM Distribution with Neovim](vim/use-janus-with-neovim.md)
 - [Go to the declaration (of a class, method, function, variable, etc)](vim/go-to-definition.md)
 - [Reselect a visual block](vim/reselect-visual-block.md)
 - [Jump Back To Previous or Last Cursor Position](vim/jump-back-to-previous-last-cursor-position.md)
+- [Put current line at top/center/bottom of screen in vim](vim/center-screen-current-line.md)
 
 ### Wordpress
-
 - [Manage wordpress using set of commands WP-CLI](wordpress/wp-cli-how-to.md)
+- [ACF rules not saving, too many flexible content blocks](wordpress/acf-rules-not-saving.md)
