@@ -94,9 +94,9 @@ THEMING FISH
 -   [http://www.hanselman.com/blog/InstallingFishShellOnUbuntuOnWindows10.aspx](http://www.hanselman.com/blog/InstallingFishShellOnUbuntuOnWindows10.aspx)
 -   [Fish shell themes](https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md)
 
-```
 # Configuration of Ubuntu Bash in Windows 10
 
+```
 curl -L https://github.com/oh-my-fish/oh-my-fish/raw/master/bin/install | fish
 omf help
 omf install chain
