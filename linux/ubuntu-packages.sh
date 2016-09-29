@@ -291,5 +291,8 @@ sudo apt-get install albert
 sudo apt-get install lynx
 sudo apt-get install links
 
-Install gawk
+# Install gawk
 sudo apt-get install gawk
+
+# Install ncdu to view disk usage by directory
+sudo apt-get install ncdu
