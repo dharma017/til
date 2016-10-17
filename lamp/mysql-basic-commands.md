@@ -1,3 +1,5 @@
+# MySQL basic commands
+
 ### How to Access the MySQL shell
 ```
 mysql -u root -p
