@@ -5,7 +5,7 @@ Today I Learned
 
 * [Android](#android)
 * [Git](#git)
-* [LAMP](#LAMP)
+* [LAMP](#lamp)
 * [Linux](#linux)
 * [Microsoft](#microsoft)
 * [Vim](#vim)
