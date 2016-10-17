@@ -5,7 +5,7 @@ Today I Learned
 
 * [Android](#android)
 * [Git](#git)
-* [Lamp](#lamp)
+* [LAMP](#LAMP)
 * [Linux](#linux)
 * [Microsoft](#microsoft)
 * [Vim](#vim)
@@ -19,7 +19,7 @@ Today I Learned
 - [A better git log](git/a-better-git-log.md)
 - [Ignoring other directories with the same name](git/prevent-ignoring-other-directories-with-same-name.md)
 
-### Lamp
+### LAMP
 - [Set Your Directory Index (Homepage) Using .htaccess](lamp/directory-index-homepage-htaccess.md)
 - [MySQL basic commands](lamp/mysql-basic-commands.md)
 - [MySQL Change/Reset root Password](lamp/mysql-change-reset-root-password.md)
