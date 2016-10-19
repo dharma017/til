@@ -15,6 +15,7 @@ Today I Learned
 - [Custom Rom Flashing](android/custom-rom-flashing.md)
 
 ### Git
+- [Welcome to the Git Flow](git/git-flow.md)
 - [Removes all unstaged files, extremely handy to revert back to a clean state](git/revert-back-to-clean-state.md)
 - [A better git log](git/a-better-git-log.md)
 - [Ignoring other directories with the same name](git/prevent-ignoring-other-directories-with-same-name.md)
@@ -26,6 +27,7 @@ Today I Learned
 
 ### Linux
 - [Install Ubuntu packages](linux/ubuntu-packages.sh)
+- [Omnibus GitLab Configuration](linux/omnibus-gitlab-configuration.md)
 - [Copy public ssh key to remote server](linux/copy-ssh-public-key-to-remote-server.md)
 - [Install ProFTPD Server in Ubuntu Server + Create FTP user](linux/install-proftpd-server-in-ubuntu.md)
 - [Setup FTP SSH for new project in Ubuntu server](linux/ftp-ssh-setup-staging-server.md)
