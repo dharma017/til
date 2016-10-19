@@ -19,6 +19,7 @@ Today I Learned
 - [Removes all unstaged files, extremely handy to revert back to a clean state](git/revert-back-to-clean-state.md)
 - [A better git log](git/a-better-git-log.md)
 - [Ignoring other directories with the same name](git/prevent-ignoring-other-directories-with-same-name.md)
+- [Restore deleted file from remote repository](git/restore-deleted-file-from-remote-repository.md)
 
 ### LAMP
 - [Set Your Directory Index (Homepage) Using .htaccess](lamp/directory-index-homepage-htaccess.md)
