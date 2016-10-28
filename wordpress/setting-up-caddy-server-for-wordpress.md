@@ -1,4 +1,14 @@
-# Caddy using rewrite
+# Setting up caddy server for wordpress 
+
+[The HTTP/2 web server with automatic HTTPS](https://caddyserver.com/)
+
+## Installing PHP 7 in Ubuntu 16.04
+
+        sudo apt-get -y install php7.0-fpm
+
+PHP-FPM is a daemon process (with the init script php7.0-fpm) that runs a FastCGI server on the socket 
+
+        /run/php/php7.0-fpm.sock
 
 ## Create WordPress Database
 
@@ -31,9 +41,24 @@ Feel free to name you database or user differently.
 
 We can get the latest version of Wordpress from their official website:
 
-    curl -SL http://wordpress.org/latest.tar.gz | tar --strip 1 -xzf -
+    mkdir caddywp && cd caddywp    
+    curl -SL http://wordpress.org/latest.tar.gz | tar --strip 1 -xzf -    
 
-Use the Caddyfile in this example and make sure that fastcgi is listening on port 9000
+## Generate wp-config file
+
+        wp core config --dbhost=localhost --dbname=wordpress --dbuser=root --dbpass=root --dbprefix=wp_
+
+## Create Caddyfile inside `caddywp` project and write below
+
+        localhost:8080
+        root /home/dharmaraj/Desktop/testwp
+        gzip
+        fastcgi / /run/php/php7.0-fpm.sock php
+        errors errors.log
+        rewrite {
+            if {path} not_match ^\/wp-admin
+            to {path} {path}/ /index.php?_url={uri}
+        }
 
 Now, we can finally run caddy. If everything went right, you'll be greeted by WordPress once you visit http://localhost:8080. From here on, WordPress will guide you through the rest of the setup.
 
