@@ -55,3 +55,6 @@ Today I Learned
 ### Wordpress
 - [Manage wordpress using set of commands WP-CLI](wordpress/wp-cli-how-to.md)
 - [ACF rules not saving, too many flexible content blocks](wordpress/acf-rules-not-saving.md)
+- [Permalink Fix & Disable Canonical Redirects](wordpress/disable-canonical-redirects.md)
+- [WP_DEBUG](wordpress/debug-wordpress.md)
+- [Prevent Directory Browsing with .htaccess](wordpress/prevent-directory-browsing-with-htaccess.md)
