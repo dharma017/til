@@ -51,7 +51,7 @@ We can get the latest version of Wordpress from their official website:
 ## Create Caddyfile inside `caddywp` project and write below
 
         localhost:8080
-        root /home/dharmaraj/Desktop/testwp
+        root /var/www/caddywp
         gzip
         fastcgi / /run/php/php7.0-fpm.sock php
         errors errors.log
