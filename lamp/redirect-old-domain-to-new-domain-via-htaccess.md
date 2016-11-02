@@ -1,5 +1,8 @@
 # Redirect an Old Domain to a New Domain in Apache server
 
+* **Permanent redirect** — A permanent redirect, or 301 redirect, should be used anytime you permanently move a page, directory or website.
+* **Temporary redirect** — A temporary redirect, or 302 redirect, should be used if you want to temporarily point a user to another location.
+
 A 301 redirect, or permanent redirect, will ensure that both human visitors and search engines alike are automatically
 and seamlessly pointed to the new domain.
 
