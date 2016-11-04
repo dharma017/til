@@ -8,3 +8,13 @@
 ## List sudo priviliges
 
     $ sudo -l
+
+## Login as apache user 
+
+Redhat Server
+
+    sudo -u apache /bin/bash
+
+Debian/Ubuntu Server    
+    
+    sudo -u www-data /bin/bash
