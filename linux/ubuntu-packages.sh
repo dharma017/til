@@ -231,7 +231,7 @@ sudo apt-get install subdownloader
 
 # laravel php stuffs
 sudo apt-get install composer
-sudo apt-get install php-mbstring php-xml php-curl
+sudo apt-get install php-mbstring php-xml php-curl php7.0-gd php7.0-zip
 
 # Install tor browser
 sudo add-apt-repository ppa:webupd8team/tor-browser
