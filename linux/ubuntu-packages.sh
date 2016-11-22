@@ -296,3 +296,8 @@ sudo apt-get install gawk
 
 # Install ncdu to view disk usage by directory
 sudo apt-get install ncdu
+
+# GET NIGHT SHIFT FEATURE IN UBUNTU LINUX WITH F.LUX
+sudo add-apt-repository ppa:nathan-renniewaldock/flux
+sudo apt-get update
+sudo apt-get install fluxgui
