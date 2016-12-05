@@ -12,6 +12,7 @@ sudo apt-get install neovim
 ### Soft link vim configuration
 
 ```
+mkdir ~/.config
 ln -s ~/.vim ~/.config/nvim
 ln -s ~/.vimrc ~/.config/nvim/init.vim
 ```
