@@ -213,7 +213,7 @@ sudo apt-get install gimp
 sudo apt-get install sendmail
 
 # Installing mailhog: Web and API based SMTP testing
-wget https://github.com/mailhog/MailHog/releases/download/v0.2.0/MailHog_linux_amd64 -O mailhog
+wget https://github.com/mailhog/MailHog/releases/download/v0.2.1/MailHog_linux_amd64 -O mailhog
 chmod +x mailhog 
 sudo mv mailhog /usr/local/bin/
 
