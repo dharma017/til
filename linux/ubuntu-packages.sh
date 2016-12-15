@@ -309,3 +309,7 @@ sudo apt update && sudo apt install corebird
 # Install Clementine Music Player
 sudo add-apt-repository ppa:me-davidsansome/clementine
 sudo apt-get update && sudo apt-get install clementine
+
+# Disable Desktop Notifications 
+sudo add-apt-repository ppa:vlijm/nonotifs
+sudo apt-get update && sudo apt-get install nonotifs
