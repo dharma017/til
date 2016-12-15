@@ -313,3 +313,8 @@ sudo apt-get update && sudo apt-get install clementine
 # Disable Desktop Notifications 
 sudo add-apt-repository ppa:vlijm/nonotifs
 sudo apt-get update && sudo apt-get install nonotifs
+
+#SAFEEYES PROTECTS YOU FROM EYE STRAIN WHEN WORKING ON THE COMPUTER
+sudo add-apt-repository ppa:slgobinath/safeeyes
+sudo apt update
+sudo apt install safeeyes
