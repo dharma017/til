@@ -318,3 +318,7 @@ sudo apt-get update && sudo apt-get install nonotifs
 sudo add-apt-repository ppa:slgobinath/safeeyes
 sudo apt update
 sudo apt install safeeyes
+
+# command-line based system info tool 
+sudo add-apt-repository ppa:dawidd0811/neofetch
+sudo apt update && sudo apt install neofetch
