@@ -305,3 +305,7 @@ sudo apt-get install fluxgui
 # Install Corebird Twitter Client
 sudo add-apt-repository ppa:ubuntuhandbook1/corebird
 sudo apt update && sudo apt install corebird
+
+# Install Clementine Music Player
+sudo add-apt-repository ppa:me-davidsansome/clementine
+sudo apt-get update && sudo apt-get install clementine
