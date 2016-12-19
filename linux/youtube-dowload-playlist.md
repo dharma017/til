@@ -1,16 +1,35 @@
+# Installation
+
+```
+$ sudo apt-get update  
+$ sudo apt-get install youtube-dl
+```
+
+To install it right away for all UNIX users (Linux, OS X, etc.), type:
+    
+    sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+    sudo chmod a+rx /usr/local/bin/youtube-dl
+    
+If you do not have curl, you can alternatively use a recent wget:
+    
+    sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+    sudo chmod a+rx /usr/local/bin/youtube-dl
+
+Update YouTube-DL
+    
+    youtube-dl -U
+    
+You can also use pip:
+
+    sudo pip install --upgrade youtube_dl
+    
+    
 # Download Youtube Channel/Playlist using Ubuntu command line
 
 1. Download playlist in Video format
 ---
 
 For this we use the command line tool `youtube-dl`
-
-To install youtube-dl use the following commands:  
-
-```
-$ sudo apt-get update  
-$ sudo apt-get install youtube-dl
-```
 
 To download an entire channel use the command:
 
