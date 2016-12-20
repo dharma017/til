@@ -25,9 +25,11 @@ Today I Learned
 - [Set Your Directory Index (Homepage) Using .htaccess](lamp/directory-index-homepage-htaccess.md)
 - [MySQL basic commands](lamp/mysql-basic-commands.md)
 - [MySQL Change/Reset root Password](lamp/mysql-change-reset-root-password.md)
+- [Redirect an Old Domain to a New Domain in Apache server](lamp/redirect-old-domain-to-new-domain-via-htaccess.md)
 
 ### Linux
 - [Install Ubuntu packages](linux/ubuntu-packages.sh)
+- [New Linux Server Setup](linux/new-server-configuration.md)
 - [Omnibus GitLab Configuration](linux/omnibus-gitlab-configuration.md)
 - [Copy public ssh key to remote server](linux/copy-ssh-public-key-to-remote-server.md)
 - [Install ProFTPD Server in Ubuntu Server + Create FTP user](linux/install-proftpd-server-in-ubuntu.md)
@@ -37,6 +39,11 @@ Today I Learned
 - [Easy file sharing from the command line](linux/share-files-with-url.md)
 - [Find The Largest Top 10 Files and Directories On a Linux / UNIX](linux/top-10-fies-largest.md)
 - [Download Youtube Channel/Playlist using Ubuntu command line](linux/youtube-dowload-playlist.md)
+- [Decompress-bz2-file](linux/decompress-bz2-file.md)
+- [Resume stalled scp file transfer](linux/resume-stalled-scp-file-transfer.md)
+- [Send mail not working](linux/send-mail-not-working.md)
+- [List of All Open Ports in Linux](linux/list-all-open-ports-in-linux.md)
+- [Check Ram Speed and Type](lamp/check-ram-speed-and-type.md)
 
 ### Microsoft
 - [Windows 10: Ubuntu Bash Configuration](microsoft/configuration-windows-ten-ubuntu-bash.md)
@@ -58,3 +65,4 @@ Today I Learned
 - [Permalink Fix & Disable Canonical Redirects](wordpress/disable-canonical-redirects.md)
 - [WP_DEBUG](wordpress/debug-wordpress.md)
 - [Prevent Directory Browsing with .htaccess](wordpress/prevent-directory-browsing-with-htaccess.md)
+- [Setting up Caddy server for Wordpress](wordpress/setting-up-caddy-server-for-wordpress.md)
