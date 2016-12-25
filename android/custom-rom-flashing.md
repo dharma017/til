@@ -4,28 +4,28 @@
 `sudo apt-get install adb android-tools-adb android-tools-fastboot`
 
 ### Check adb version
-`adb version`
+`sudo adb version`
 
 ### Checking and unlocking the bootloader
-`fastboot oem device-info`
+`sudo fastboot oem device-info`
 
 ### Check android device connection information
-`adb devices`
+`sudo adb devices`
 
 ### Reboot your phone into bootloader mode
-`adb reboot-bootloader`
+`sudo adb reboot-bootloader`
 
 ### Check android device connection information
-`fastboot devices`
+`sudo fastboot devices`
 
 ### Flash custom recovery image temporarily
-`fastboot boot recovery.img`
+`sudo fastboot boot recovery.img`
 
 ### Flash custom recovery image permanently
-`fastboot flash recovery recovery.img`
+`sudo fastboot flash recovery recovery.img`
 
 ### Push and flash custom ROMs and zips from your computer
-`adb sideload file.zip`
+`sudo adb sideload file.zip`
 
 ## References
 
