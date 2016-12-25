@@ -73,5 +73,7 @@ mysql -u [username]-p
 
 ### Run Mysql command directly
 
+```
 mysql -u root -p -h -e "drop database database_name";
 mysql -u root -p -h -e "create database database_name character set utf8 collate utf8_unicode_ci";
+```
