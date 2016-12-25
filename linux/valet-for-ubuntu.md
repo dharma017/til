@@ -38,3 +38,10 @@ Open `http://projectname.dev` in your browser.
 
     composer global update
     valet install
+
+
+## Wordpress Configuration
+Just add these two lines in wp-config.php
+
+    define( 'WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] );
+    define( 'WP_HOME', 'http://' . $_SERVER['HTTP_HOST'] );
