@@ -40,6 +40,7 @@ Open `http://projectname.dev` in your browser.
 
 
 ## Wordpress Configuration
+
 Just add these two lines in wp-config.php
 
     define( 'WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] );
