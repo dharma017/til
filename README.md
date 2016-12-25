@@ -44,6 +44,7 @@ Today I Learned
 - [Send mail not working](linux/send-mail-not-working.md)
 - [List of All Open Ports in Linux](linux/list-all-open-ports-in-linux.md)
 - [Check Ram Speed and Type](lamp/check-ram-speed-and-type.md)
+- [Valet for Ubuntu 16.04](https://github.com/relizont/til/blob/master/linux/valet-for-ubuntu.md)
 
 ### Microsoft
 - [Windows 10: Ubuntu Bash Configuration](microsoft/configuration-windows-ten-ubuntu-bash.md)
