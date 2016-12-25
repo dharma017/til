@@ -13,6 +13,6 @@ PHP Packages: `sudo apt-get install php-cli php-curl php-mbstring php-mcrypt php
 ## Installation
 
     composer global require cpriego/valet-ubuntu
-    echo "set -gx PATH \$PATH /usr/bin/composer" >> ~/.config/fish/config.fish
+    echo "set -gx PATH \$PATH .config/composer/vendor/bin" >> ~/.config/fish/config.fish
     sudo systemctl stop apache2.service
     valet install
