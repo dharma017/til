@@ -31,7 +31,6 @@ Open `http://projectname.dev` in your browser.
 ## Documentation
 
 * [Laravel Valet](https://laravel.com/docs/5.2/valet)
-
 * [Valet for Ubuntu](https://github.com/cpriego/valet-ubuntu)
 
 ## Upgrade
