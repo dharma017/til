@@ -322,3 +322,11 @@ sudo apt install safeeyes
 # command-line based system info tool 
 sudo add-apt-repository ppa:dawidd0811/neofetch
 sudo apt update && sudo apt install neofetch
+
+# Optimize and Compress JPEG or PNG Images
+sudo apt-get install trimage -y
+sudo apt-get install jpegoptim optipng -y
+
+
+
+ 
