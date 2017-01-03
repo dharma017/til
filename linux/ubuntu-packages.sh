@@ -224,7 +224,7 @@ sudo mv mailhog /usr/local/bin/
 sudo apt install golang-go
 
 # Installing Redshift: Color temperature adjustment tool
-sudo apt-get install redshift
+sudo apt-get install redshift redshift-gtk
 
 # Eyebreak 20-20-20 rule
 sudo apt-get install workrave
