@@ -13,6 +13,9 @@ sudo service apport stop ; sudo sed -ibak -e s/^enabled\=1$/enabled\=0/ /etc/def
 # Install GDebi GTK and Synaptic
 sudo apt install synaptic gdebi
 
+# ENABLE PPA
+sudo apt-get install software-properties-common
+
 # Installing Missing Drivers/Packages
 sudo apt-get install ubuntu-restricted-extras
 
