@@ -330,6 +330,8 @@ sudo apt update && sudo apt install neofetch
 sudo apt-get install trimage -y
 sudo apt-get install jpegoptim optipng -y
 
-
-
+# Podcast Client for the Modern Desktop
+sudo apt-add-repository ppa:nathandyer/vocal-stable &&
+sudo apt-get update &&
+sudo apt-get install vocal
  
