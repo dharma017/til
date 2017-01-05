@@ -116,6 +116,11 @@ exec fish
 fi
 ```
 
+Command completion
+```
+fish_update_completions
+```
+
 Fish Shell Configuration
 
 `fish_config`
