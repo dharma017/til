@@ -1,4 +1,4 @@
-# How to dump mysql database file with timestamp
+# How to dump mysql database to a file
 
 Try the following:
 
