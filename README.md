@@ -40,6 +40,7 @@ Today I Learned
 - [Find The Largest Top 10 Files and Directories On a Linux / UNIX](linux/top-10-fies-largest.md)
 - [Download Youtube Channel/Playlist using Ubuntu command line](linux/youtube-dowload-playlist.md)
 - [Decompress-bz2-file](linux/decompress-bz2-file.md)
+- [Dump mysql database] (linux/dump-mysql-database.md)
 - [Resume stalled scp file transfer](linux/resume-stalled-scp-file-transfer.md)
 - [Send mail not working](linux/send-mail-not-working.md)
 - [List of All Open Ports in Linux](linux/list-all-open-ports-in-linux.md)
