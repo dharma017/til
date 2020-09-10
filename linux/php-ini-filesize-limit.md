@@ -2,6 +2,9 @@
 
 Changes into the `php.ini` file
 
-    memory_limit = 512M
-    post_max_size = 80M
-    upload_max_filesize = 200M
+    upload_max_filesize = 32M 
+    post_max_size = 48M 
+    memory_limit = 256M 
+    max_execution_time = 600 
+    max_input_vars = 3000 
+    max_input_time = 1000
